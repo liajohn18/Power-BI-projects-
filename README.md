@@ -1,2 +1,2 @@
 # Power-BI-projects-
-Collection of Power BI projects for different Domains 
+Collection of Power BI dashboards for different Domains 
